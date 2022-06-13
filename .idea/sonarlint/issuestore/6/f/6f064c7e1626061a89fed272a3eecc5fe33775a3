@@ -1,0 +1,24 @@
+
+k	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šØŞÇüÿÿÿÿ
+f	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú †
+k	java:S117C"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é‡‘¸øÿÿÿÿ
+m	java:S116"SRename this field "NoButton" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖÔĞúıÿÿÿÿ
+6
+java:S2129" Remove this "Double" constructor(¨üœ
+D
+java:S1874".Remove this use of "Double"; it is deprecated.(¨üœ
+;
+java:S2129" Remove this "Double" constructor(Ö÷Ş¸ùÿÿÿÿ
+I
+java:S1874".Remove this use of "Double"; it is deprecated.(Ö÷Ş¸ùÿÿÿÿ
+9
+java:S2119 "Save and re-use this "Random".(šØŞÇüÿÿÿÿ
+;
+java:S21294" Remove this "Double" constructor(±‘óáúÿÿÿÿ
+I
+java:S18744".Remove this use of "Double"; it is deprecated.(±‘óáúÿÿÿÿ
+;
+java:S21295" Remove this "Double" constructor(‚ò€Œúÿÿÿÿ
+I
+java:S18745".Remove this use of "Double"; it is deprecated.(‚ò€Œúÿÿÿÿ
+c	java:S100;"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£‘·
